@@ -176,6 +176,8 @@ Para que esse teste passe, você não deve permitir excluir um *todo* que não e
 
 Após todo código pronto e acertado de acordo com o teste vamos obter o seguinte resultado abaixo:
 
+<img src ="https://github.com/LucasRGarcias/Desafio-01---Conceitos-do-Node.js---Inginte/blob/main/src/imgs/Desafio%2001.png"/>
+
 
 Feito com 💜 por Rocketseat 👋
 
