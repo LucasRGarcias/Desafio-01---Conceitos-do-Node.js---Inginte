@@ -1,7 +1,7 @@
 <img src = "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fad01ee79-762a-4775-bbb6-354f2f42879a%2Fcover-node.js.png?table=block&id=59ccb235-aecd-43a6-a06b-f09a24e7ede8&width=3840&userId=bb69c026-4e38-45ee-b1fa-4f4c9b059411&cache=v2"/>
 
 # Desafio-01 
-#Conceitos do Node.js - 
+#Conceitos do Node.js
 
 # 💻 Sobre o desafio
 
