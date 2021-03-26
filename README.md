@@ -178,6 +178,10 @@ Após todo código pronto e acertado de acordo com o teste vamos obter o seguint
 
 <img src ="https://github.com/LucasRGarcias/Desafio-01---Conceitos-do-Node.js---Inginte/blob/main/src/imgs/Desafio%2001.png"/>
 
+Correção da plataforam da Rocket Seat - ignite.
+
+<img src="">
+
 
 Feito com 💜 por Rocketseat e praticado no curso Ignite trila NodeJS👋
 
