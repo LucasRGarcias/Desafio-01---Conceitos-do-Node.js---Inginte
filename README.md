@@ -180,7 +180,7 @@ Após todo código pronto e acertado de acordo com o teste vamos obter o seguint
 
 Correção da plataforam da Rocket Seat - ignite.
 
-<img src="">
+<img src="https://github.com/LucasRGarcias/Desafio-01-Conceitos-do-Node.js-Ignite/blob/main/src/imgs/correcao.png">
 
 
 Feito com 💜 por Rocketseat e praticado no curso Ignite trila NodeJS👋
